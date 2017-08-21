@@ -57,7 +57,7 @@ $(".nav-items a:nth-of-type(3)").click(function(ev){
 
 /*activating the avatar*/
 $(window).scroll(function(){
-  if($("body").scrollTop()> ($(window).height()/10) ){
+  if($("body").scrollTop()> ($(window).height()/10) && $("body").scrollTop() < $(window).height()){
 
     $(".avatar").addClass('avatar_translate');
        $(".avatar").addClass("avatar_active");
