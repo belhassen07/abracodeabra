@@ -63,6 +63,7 @@ $(window).scroll(function(){
        $(".avatar").addClass("avatar_active");
        $(".pf-first").addClass('radial-bg');
        $(".pf-first h2").fadeOut(600);
+       document.querySelector("audio").play()
   }
 
   else{
@@ -72,4 +73,5 @@ $(window).scroll(function(){
 
   }
 });
+
 

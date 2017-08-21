@@ -769,7 +769,7 @@ footer button:hover{
 }
 .portfolio-wrapper section:nth-of-type(even){
 	background:#000;
-	font-size: calc(10px + .3vw)
+	font-size: calc(10px + .3vw);
 }
 .portfolio-wrapper section h2{
 	margin: auto;
