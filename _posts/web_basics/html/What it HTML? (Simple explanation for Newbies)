@@ -10,6 +10,4 @@ So, basically, HTML is a "Markup" language, but what does Markup mean? Never min
 But what you need to know is that HTML is the first language you need to learn, atleast according to the regular path that you should take.
 HTML is a simple language for structuring a web page, think about it like building a house, brick by brick, every brick is a single line of code called tags, so yeah, HTML is JUST A LANGUAGE OF TAGS.
 A tag generally looks like this: 
-html`
-<h1>Hello, this is a simple tutorial to begin learning HTML</h1>
-`
+
