@@ -5,7 +5,6 @@ layout: post
 category: html
 ---
 
-![HTML is the begining](https://gosciencegirls.com/wp-content/uploads/2016/02/Learning-to-code-html-for-kids.jpg)
 
 This is obviously not a wikipedia page, so here we'll be explaining with a really easy-peasy way so you can learn web developement.
 So, basically, HTML is a "Markup" language, but what does Markup mean? Never mind I won't explain that lol, at least not now.
@@ -14,9 +13,7 @@ But what you need to know is that HTML is the first language you need to learn, 
 HTML is a simple language for structuring a web page, think about it like building a house, brick by brick, every brick is a single line of code called tags, so yeah, HTML is JUST A LANGUAGE OF TAGS.
 A tag generally looks like this.
 
-```html
-<h1>this the best I can do</h1>
-```
+
 
 
 
