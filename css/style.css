@@ -47,12 +47,15 @@ nav{
   display:flex;
   text-align:center;
   font-size:calc(14px+3vw);
+  height: calc(5vw + 30px);
+  position: relative;
  
 }
 
 .article-nav i{
-	margin: auto 0;
-	padding: 2vw;
+	position: absolute;
+	top: 0;
+	left: 0;
 }
 
 header{
@@ -85,6 +88,7 @@ header{
 }
  nav h2{
   font-size:calc(14px + 1.6vw);
+  z-index: 3;
   margin:auto;
   color:#fff;
   transform:translate(-6.95vw );
@@ -190,7 +194,7 @@ nav i{
 }
 .fa-bars, .fa-times{
   font-size: calc(14px + 2.8vw) !important;
-  margin:4vw;
+  margin:1.5vw 1.5vw 1.5vw 3vw;
    
 }
 .fa-bars:hover, .fa-times:hover{
