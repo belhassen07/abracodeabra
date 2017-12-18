@@ -194,7 +194,7 @@ nav i{
 }
 .fa-bars, .fa-times{
   font-size: calc(14px + 2.8vw) !important;
-  margin:1.5vw 1.5vw 1.5vw 3vw;
+  margin:1.5vw 1.5vw 1.5vw 4vw;
    
 }
 .fa-bars:hover, .fa-times:hover{
