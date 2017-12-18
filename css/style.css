@@ -151,7 +151,7 @@ nav a,nav a:active{
 .big{
 	margin-top: 10%;
 	min-height: 20vw;
-	max-height: 50vw !important;
+	max-height: 600px;
 }
 .article-example p{
 	font-size: calc(16px + .3vw);
