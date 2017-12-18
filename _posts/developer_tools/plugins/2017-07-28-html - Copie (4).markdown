@@ -1,8 +1,0 @@
----
-title : "how to build ur first website"
-author: "Belhassen Chelbi"
-layout: post
-categories: plugins
----
-
-type aaol is good type aaol is good type aaol is good type aaol is good type aaol is good type aaol is good type aaol is good type aaol is good type aaol is good type aaol is good type aaol is good type aaol is good type aaol is good type aaol is good type aaol is good type aaol is good type aaol is good type aaol is good type aaol is good type aaol is good type aaol is good type aaol is good type aaol is good type aaol is good type aaol is good type aaol is good type aaol is good type aaol is good type aaol is good type aaol is good type aaol is good type aaol is good 

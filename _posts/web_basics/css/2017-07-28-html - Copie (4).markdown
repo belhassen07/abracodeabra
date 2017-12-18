@@ -1,8 +1,0 @@
----
-title : "how to build ur first website"
-author: "Belhassen Chelbi"
-layout: post
-category: css
----
-
-this is some shitthis is some shitthis is some shitthis is some shitthis is some shitthis is some shitthis is some shitthis is some shitthis is some shitthis is some shitthis is some shitthis is some shitthis is some shitthis is some shitthis is some shitthis is some shitthis is some shitthis is some shitthis is some shitthis is some shitthis is some shitthis is some shitthis is some shitthis is some shitthis is some shitthis is some shitthis is some shitthis is some shit
