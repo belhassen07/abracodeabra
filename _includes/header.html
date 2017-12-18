@@ -1,0 +1,39 @@
+<header>
+	
+	     {% include nav.html %}
+		<div class="articles">
+		{% for post in site.categories["js"] limit:1 %}		
+
+			<article class="article-example big ">
+				<a class="title" href="{{post.url}}"><h4>{{ post.title }}</h4></a>
+				<div class="article_description">{{post.date  | date: '%B %d, %Y'}} by <a href="{{site.baseurl}}/portfolio">{{post.author}}</a></div>
+				<p>{{ post.post_description}}</p>
+				<a href="{{post.url}}" class="load">Load more</a>
+		
+			</article>
+
+		{% endfor %}
+			<div class="part_two">
+			{% for post in site.categories["html"] limit:1 %}
+				<article class="article-example">
+					<a href="{{post.url}}"><h4>{{post.title}}</h4></a>
+					<div class="article_description">{{post.date| date: '%B %d, %Y'}} by <a href="">{{post.author}}</a></div>
+					<p>{{post.post_description}} </p>
+					<a href="{{post.url}}" class="load">Load more ..</a>
+				</article>
+			{% endfor %}
+			{% for post in site.categories["css"] limit:1 %}
+				<article class="article-example">
+					<a href="{{post.url}}"><h4>{{post.title}}</h4></a>
+					<div class="article_description">{{post.date| date: '%B %d, %Y'}} by <a href="">{{post.author}}</a></div>
+					<p>{{post.post_description}} </p>
+					<a href="{{post.url}}" class="load">Load more ..</a>
+				</article>
+			{% endfor %}
+
+			
+			</div>
+			
+		</div>
+			
+	</header>

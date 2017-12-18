@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+
+	{% include head.html %}
+
+	
+	<body>
+		{% include header.html %}
+
+		<!-- web basics section-->
+		<div class="web-basics">
+			<div class="basics-title" id="basics">
+				<h3>Web Basics</h3>
+			</div>
+			<div class="languages">
+				<a href="{{site.baseurl}}/web_basics/html">
+					<div class="basics-first">
+						<h4>HTML</h4>
+					</div>
+				</a>
+				<a href="{{site.baseurl}}/web_basics/css">
+					<div class="basics-second">
+						<h4>CSS</h4>
+					</div>
+				</a>
+				<a href="{{site.baseurl}}/web_basics/js">
+					<div class="basics-third">
+						<h4>JS</h4>
+				    </div>
+				</a>
+				<a href="{{site.baseurl}}/web_basics/others">
+					<div class="basics-fourth">
+						<h4 class="last">Others ..</h4>
+					</div>		
+				</a>
+			</div>
+		</div>
+
+		<div class="tools" id="dev_tools">
+			<div class="first-col">
+				<a href="{{site.baseurl}}/dev_tools/trends"><div><h4>Processors and  some trends</h4></div></a>
+				<a href="{{site.baseurl}}/dev_tools/plugins"><div><h4>Frameworks, libraries and plugins</h4></div></a>
+				<a href="{{site.baseurl}}/dev_tools/others"><div><h4>Some other cool stuff</h4></div></a>
+			</div>
+			<div>
+				<h3>DEV TOOLS</h3>
+			</div>
+		</div>
+
+		<div class="make-website">
+			<h3>MAKE A WEBSITE <br>FROM SCRATCH</h3>
+		</div>
+
+		<div class="about">
+			<div class="desc">
+				<h4>About the blog</h4>				
+				<div class="blog_desc">
+					<h2>Abra Code Abra </h2>
+				    <p>learn how to code like Voldemort .. </p>
+				</div>
+			</div>
+			<div class="voldemort">
+				<img src="{{site.baseurl}}/images/voldemort.png">		
+			</div>	
+		</div>
+		
+		{% include author.html %}
+		{% include footer.html %}
+		{% include scripts.html %}
+
+
+
+	</body>
+</html>

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+	{% include head.html %}
+
+		<nav style="background: url('https://vignette4.wikia.nocookie.net/papermario/images/4/49/Crumpled-paper-texture.png/revision/latest?cb=20120327040914'),#6dc0e5 ">
+				  <i class="fa fa-bars " aria-hidden="true"></i>
+				  <h2><i class="fa fa-magic " aria-hidden="true"></i>Abra &lt;&sol;Code&gt; Abra </h2>
+				  <ol class="nav-items">
+					    <a href="{{site.baseurl}}/"><li>Home</li></a>
+					   <a href="{{site.baseurl}}/index#basics" class="basics-ref"><li>Learn Web Basics</li></a>
+				    	<a href="{{site.baseurl}}/index#dev_tools"><li>Developer Tools</li></a>
+					    <a href="{{site.baseurl}}/portfolio"><li>Who am I?</li></a>
+				  </ol>
+			    
+		</nav>
+	<body>
+		
+		<div class="bg-white">
+			<div class="article">
+				<div class="article-container">
+					<div class="post-title">
+						<h1>{{page.title}}</h1>
+						<svg height="50" style="margin-left: 20px">
+							<line x1="0" y1="0" x2="200" y2="0" stroke="red" stroke-width="14" />
+						</svg>
+						<ol>
+							<li><img src={{page.authorImage}} alt="author image"><a href="">{{page.author}}</a></li>
+							<li><i class="fa fa-calendar" aria-hidden="true"></i>
+							{{ page.date | date: "%-d %B %Y" }}</li>
+						</ol>
+					</div>
+				{{page.content}}	
+				</div>	
+			</div>
+	
+
+
+		{% include author.html %}
+		{% include footer.html %}
+		{% include scripts.html %}
+
+	</body>
+</html>
