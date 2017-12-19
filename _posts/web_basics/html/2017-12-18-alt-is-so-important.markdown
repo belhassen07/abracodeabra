@@ -57,7 +57,7 @@ in the alt attribute I found : 'Image may contain: 3 people, eyeglasses'. and ye
 
 # For Search engine optimization sake
 
-Search engine loves alt, that means they want to know information about your image, so they look at alt attribute value; so if you care about SEO, add the alt.
+Search engines love alt, that means they want to know information about your image, so they look at alt attribute value; so if you care about SEO, add the alt.
 you can learn more basic things about SEO [in this youtube playlist course](https://www.youtube.com/watch?v=bpE-bIX1z9M&list=PLWjCJDeWfDddFOJYmcgNnUIhUHcsNEBTd)
 
  **So yes, alt matters!**
