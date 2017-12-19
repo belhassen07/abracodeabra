@@ -4,7 +4,7 @@ author: "Belhassen Chelbi"
 layout: post
 permalink: /javascript/closures
 category: js
-post_description: "Since I’ve started learning javascript, I heard a lot that it’s a really weird language, but I didn’t really get this weirdness until I discovered the closures.
+description: "Since I’ve started learning javascript, I heard a lot that it’s a really weird language, but I didn’t really get this weirdness until I discovered the closures.
 What’s a closure? "
 authorImage: /images/belhassen.jpg
 ---

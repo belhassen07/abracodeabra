@@ -4,7 +4,7 @@ author: "Belhassen Chelbi"
 layout: post
 permalink: /css/css3-prefixes
 category: css
-post_description: "Have you ever tried to preview your HTML-CSS code on different browsers and you found out that the preview isn’t the same ? Why that happens? "
+description: "Have you ever tried to preview your HTML-CSS code on different browsers and you found out that the preview isn’t the same ? Why that happens? "
 authorImage: /images/belhassen.jpg
 ---
 

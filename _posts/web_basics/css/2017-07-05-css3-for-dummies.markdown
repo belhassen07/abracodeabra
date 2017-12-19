@@ -4,7 +4,7 @@ author: "Belhassen Chelbi"
 layout: post
 permalink: /css/css3-for-dummies
 category: css
-post_description: "Have you ever wondered how to make an HTML element dance?
+description: "Have you ever wondered how to make an HTML element dance?
 Well, after reading this you'll be ready to make them dance thanks to CSS3 animation. Are you ready? "
 authorImage: /images/belhassen.jpg
 ---

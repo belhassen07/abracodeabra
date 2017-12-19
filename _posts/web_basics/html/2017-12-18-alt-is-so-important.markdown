@@ -4,7 +4,7 @@ author: "Belhassen Chelbi"
 layout: post
 permalink: /html/why-alt-attribute-is-important
 category: html
-post_description: "Maybe it seems basic, but I remember when I used to ignore this attribute when Writing an image tag, The alt attribute has to be there in the image tag and it should be describing so  people with disabilities know what's there with screen readers.  "
+description: "Maybe it seems basic, but I remember when I used to ignore this attribute when Writing an image tag, The alt attribute has to be there in the image tag and it should be describing so  people with disabilities know what's there with screen readers.  "
 authorImage: /images/belhassen.jpg
 ---
 

@@ -3,7 +3,7 @@ title: "My dev goals for 2018!"
 layout: post
 author: Belhassen Chelbi
 category: others
-post_description: "Well, to be honest, I don't believe in 'new year, new me', but anyway, I'm going to make a plan for the new year 2018 and I'm going to share it with you with the reasons why I choose it."
+description: "Well, to be honest, I don't believe in 'new year, new me', but anyway, I'm going to make a plan for the new year 2018 and I'm going to share it with you with the reasons why I choose it."
 authorImage: /images/belhassen.jpg
 ---
 

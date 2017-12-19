@@ -4,7 +4,7 @@ author: "Belhassen Chelbi"
 layout: post
 permalink: /javascript/WhyweshouldntusejQueryanymore
 category: plugins
-post_description: "Eminem said about a developer who uses jQuery :There's vomit on his sweater already, mom's spaghetti
+description: "Eminem said about a developer who uses jQuery :There's vomit on his sweater already, mom's spaghetti
 You don't need Eminem to say that about you right? "
 authorImage: /images/belhassen.jpg
 ---
