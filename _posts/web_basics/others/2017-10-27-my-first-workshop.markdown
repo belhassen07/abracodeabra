@@ -4,7 +4,7 @@ layout: post
 author: "a good friend"
 category: others
 post_description: "So, I learnt HTML CSS and javascript and I've done a lot of websites. Of course when I say I learnt these three technologies, I'm not supposed to mention all other technologies like jekyll, some design skills , svg etc.."
-authorImage: https://scontent.ftun3-1.fna.fbcdn.net/v/t1.0-9/13920861_1021182767980753_951566742596259721_n.jpg
+authorImage: /images/belhassen.jpg
 ---
 As a junior front-end web developer who has a lot of passion about front-end technologies, I decided to teach them to students in my university. I entered the world of web development more than one year ago (maybe one year and 2 months from now), and I was fascinated by the power that HTML, CSS and Javascript gave to me so I can create what I want.
 

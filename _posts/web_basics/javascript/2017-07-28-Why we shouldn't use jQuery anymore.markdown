@@ -6,7 +6,7 @@ permalink: /javascript/WhyweshouldntusejQueryanymore
 category: js
 post_description: "Eminem said about a developer who uses jQuery :There's vomit on his sweater already, mom's spaghetti
 You don't need Eminem to say that about you right? "
-authorImage: https://scontent.ftun3-1.fna.fbcdn.net/v/t1.0-9/13920861_1021182767980753_951566742596259721_n.jpg
+authorImage: /images/belhassen.jpg
 ---
 
 

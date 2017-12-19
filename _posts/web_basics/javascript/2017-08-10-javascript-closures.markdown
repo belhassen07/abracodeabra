@@ -6,7 +6,7 @@ permalink: /javascript/closures
 category: js
 post_description: "Since I’ve started learning javascript, I heard a lot that it’s a really weird language, but I didn’t really get this weirdness until I discovered the closures.
 What’s a closure? "
-authorImage: https://scontent.ftun3-1.fna.fbcdn.net/v/t1.0-9/13920861_1021182767980753_951566742596259721_n.jpg
+authorImage: /images/belhassen.jpg
 ---
 Since I’ve started learning javascript, I heard a lot that it’s a really weird language, but I didn’t really get this weirdness until I discovered the closures.
 What’s a closure?

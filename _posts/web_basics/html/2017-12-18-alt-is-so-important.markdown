@@ -5,7 +5,7 @@ layout: post
 permalink: /html/why-alt-attribute-is-important
 category: html
 post_description: "Maybe it seems basic, but I remember when I used to ignore this attribute when Writing an image tag, The alt attribute has to be there in the image tag and it should be describing so  people with disabilities know what's there with screen readers.  "
-authorImage: https://scontent.ftun3-1.fna.fbcdn.net/v/t1.0-9/13920861_1021182767980753_951566742596259721_n.jpg
+authorImage: /images/belhassen.jpg
 ---
 
 Maybe it seems basic, but I remember when I used to ignore this attribute when Writing an image tag. You shouldn't do that for the following reasons: 
