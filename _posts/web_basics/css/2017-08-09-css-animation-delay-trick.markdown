@@ -5,7 +5,7 @@ layout: post
 permalink: /css/animationDelay
 category: css
 post_description: "You’re probably here because you faced a little problem with making your animation wait some time before it repeats itself again. well, the animation-delay property doesn’t solve the problem because its function is to create a delay of what ever seconds you want before the first repetition of the animation occurs, then , there’s no delay.But how to solve that  "
-authorImage: https://scontent.ftun3-1.fna.fbcdn.net/v/t1.0-9/16266301_1193188357446859_2815577307034812969_n.jpg?oh=f048a6b28a8ce13e87529db5ae982f10&oe=5AD012E2
+authorImage: https://scontent.ftun3-1.fna.fbcdn.net/v/t1.0-9/13920861_1021182767980753_951566742596259721_n.jpg
 ---
 You’re probably here because you faced a little problem with making your animation wait some time before it repeats itself again. well, the animation-delay property doesn’t solve the problem because its function is to create a delay of what ever seconds you want before the first repetition of the animation occurs, then , there’s no delay.But how to solve that problem, is there an animation property that may help us ? Unfortunately no, but there’s a trick you can do to solve this problem. Let’s take a primary animation code that needs to be edited so when the animation have to wait some seconds (or what ever time you want) before it repeats itself:
 

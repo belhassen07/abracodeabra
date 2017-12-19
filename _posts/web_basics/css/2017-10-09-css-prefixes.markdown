@@ -5,7 +5,7 @@ layout: post
 permalink: /css/css3-prefixes
 category: css
 post_description: "Have you ever tried to preview your HTML-CSS code on different browsers and you found out that the preview isn’t the same ? Why that happens? "
-authorImage: https://scontent.ftun3-1.fna.fbcdn.net/v/t1.0-9/16266301_1193188357446859_2815577307034812969_n.jpg?oh=f048a6b28a8ce13e87529db5ae982f10&oe=5AD012E2
+authorImage: https://scontent.ftun3-1.fna.fbcdn.net/v/t1.0-9/13920861_1021182767980753_951566742596259721_n.jpg
 ---
 
 ### Have you ever tried to preview your HTML-CSS code on different browsers and you found out that the preview isn’t the same ?
