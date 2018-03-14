@@ -2,7 +2,6 @@
 title : "Judging a coder 101"
 author: "Belhassen Chelbi"
 layout: post
-permalink: /others/Judgingacoder101
 category: other_tools
 description: "Have you ever met someone who made you feel like you're not good "enough" and you won't be. Maybe you've just started to learn how to code and you had a conversation with him where you had some shaky ideas and a lot of questions, so he assumed that you're not good enough to have a good career as a developer. "
 authorImage: /images/belhassen.jpg
